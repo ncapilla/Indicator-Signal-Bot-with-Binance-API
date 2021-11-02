@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Reference
+# https://github.com/mrjbq7/ta-lib
+
 # Install dependencies
 sudo apt install libpython3.9-dev
 sudo apt install libtool-bin
